@@ -18,6 +18,9 @@ npm install
 ```bash
 npm start
 ```
+http://localhost:3001
+
+
 - Frontend
 1.
 ```bash
@@ -31,3 +34,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+http://localhost:3000
