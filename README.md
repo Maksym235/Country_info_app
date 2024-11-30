@@ -28,7 +28,7 @@ cd frontend
 ```
 2.
 ```bash
-npm install
+npm install --force
 ```
 3.
 ```bash
