@@ -1,0 +1,23 @@
+.list {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.list_item {
+	max-width: 300px;
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+	align-items: center;
+	font-size: 18px;
+	font-weight: 400;
+	cursor: pointer;
+	transition: background-color 0.2s linear;
+}
+
+.list_item:hover,
+.list_item:focus {
+	background-color: #c5c5c5;
+}
