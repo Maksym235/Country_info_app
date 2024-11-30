@@ -3,14 +3,31 @@ test task for developersToday
 
 to start project
 
-`git clone `
+`git clone https://github.com/Maksym235/Country_info_app.git`
 
 - Backend
-`cd backend`
-`npm install`
-`npm start`
-
+1.
+```bash
+cd backend
+```
+2.
+```bash
+npm install
+```
+3.
+```bash
+npm start
+```
 - Frontend
-`cd frontend`
-`npm install`
-`npm run dev`
+1.
+```bash
+cd frontend
+```
+2.
+```bash
+npm install
+```
+3.
+```bash
+npm run dev
+```
